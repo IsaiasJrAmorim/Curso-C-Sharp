@@ -1,0 +1,15 @@
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX01 - Estrutura Sequencial (entrada, processamento, saída)\bin\Debug\net8.0\EX01 - Estrutura Sequencial (entrada, processamento, saída).exe
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX01 - Estrutura Sequencial (entrada, processamento, saída)\bin\Debug\net8.0\EX01 - Estrutura Sequencial (entrada, processamento, saída).deps.json
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX01 - Estrutura Sequencial (entrada, processamento, saída)\bin\Debug\net8.0\EX01 - Estrutura Sequencial (entrada, processamento, saída).runtimeconfig.json
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX01 - Estrutura Sequencial (entrada, processamento, saída)\bin\Debug\net8.0\EX01 - Estrutura Sequencial (entrada, processamento, saída).dll
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX01 - Estrutura Sequencial (entrada, processamento, saída)\bin\Debug\net8.0\EX01 - Estrutura Sequencial (entrada, processamento, saída).pdb
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX01 - Estrutura Sequencial (entrada, processamento, saída)\obj\Debug\net8.0\EX01 - Estrutura Sequencial (entrada, processamento, saída).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX01 - Estrutura Sequencial (entrada, processamento, saída)\obj\Debug\net8.0\EX01 - Estrutura Sequencial (entrada, processamento, saída).AssemblyInfoInputs.cache
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX01 - Estrutura Sequencial (entrada, processamento, saída)\obj\Debug\net8.0\EX01 - Estrutura Sequencial (entrada, processamento, saída).AssemblyInfo.cs
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX01 - Estrutura Sequencial (entrada, processamento, saída)\obj\Debug\net8.0\EX01 - Estrutura Sequencial (entrada, processamento, saída).csproj.CoreCompileInputs.cache
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX01 - Estrutura Sequencial (entrada, processamento, saída)\obj\Debug\net8.0\EX01 - Estrutura Sequencial (entrada, processamento, saída).sourcelink.json
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX01 - Estrutura Sequencial (entrada, processamento, saída)\obj\Debug\net8.0\EX01 - Estrutura Sequencial (entrada, processamento, saída).dll
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX01 - Estrutura Sequencial (entrada, processamento, saída)\obj\Debug\net8.0\refint\EX01 - Estrutura Sequencial (entrada, processamento, saída).dll
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX01 - Estrutura Sequencial (entrada, processamento, saída)\obj\Debug\net8.0\EX01 - Estrutura Sequencial (entrada, processamento, saída).pdb
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX01 - Estrutura Sequencial (entrada, processamento, saída)\obj\Debug\net8.0\EX01 - Estrutura Sequencial (entrada, processamento, saída).genruntimeconfig.cache
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX01 - Estrutura Sequencial (entrada, processamento, saída)\obj\Debug\net8.0\ref\EX01 - Estrutura Sequencial (entrada, processamento, saída).dll

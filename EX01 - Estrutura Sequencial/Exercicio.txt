@@ -1,0 +1,22 @@
+Exercício 01
+
+Correção: https://github.com/acenelio/nivelamento-csharp/blob/master/uri1003/uri1003/Program.cs
+
+Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma 
+mensagem explicativa, conforme exemplos.
+
+Exemplos:
+Entrada: Saída:
+10
+30
+SOMA = 40
+
+Entrada: Saída:
+-30
+10
+SOMA = -20
+
+Entrada: Saída:
+0
+0
+SOMA = 

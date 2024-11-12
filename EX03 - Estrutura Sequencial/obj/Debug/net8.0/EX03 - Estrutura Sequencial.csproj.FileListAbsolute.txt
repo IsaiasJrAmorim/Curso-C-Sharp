@@ -1,0 +1,15 @@
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX03 - Estrutura Sequencial\bin\Debug\net8.0\EX03 - Estrutura Sequencial.exe
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX03 - Estrutura Sequencial\bin\Debug\net8.0\EX03 - Estrutura Sequencial.deps.json
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX03 - Estrutura Sequencial\bin\Debug\net8.0\EX03 - Estrutura Sequencial.runtimeconfig.json
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX03 - Estrutura Sequencial\bin\Debug\net8.0\EX03 - Estrutura Sequencial.dll
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX03 - Estrutura Sequencial\bin\Debug\net8.0\EX03 - Estrutura Sequencial.pdb
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX03 - Estrutura Sequencial\obj\Debug\net8.0\EX03 - Estrutura Sequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX03 - Estrutura Sequencial\obj\Debug\net8.0\EX03 - Estrutura Sequencial.AssemblyInfoInputs.cache
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX03 - Estrutura Sequencial\obj\Debug\net8.0\EX03 - Estrutura Sequencial.AssemblyInfo.cs
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX03 - Estrutura Sequencial\obj\Debug\net8.0\EX03 - Estrutura Sequencial.csproj.CoreCompileInputs.cache
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX03 - Estrutura Sequencial\obj\Debug\net8.0\EX03 - Estrutura Sequencial.sourcelink.json
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX03 - Estrutura Sequencial\obj\Debug\net8.0\EX03 - Estrutura Sequencial.dll
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX03 - Estrutura Sequencial\obj\Debug\net8.0\refint\EX03 - Estrutura Sequencial.dll
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX03 - Estrutura Sequencial\obj\Debug\net8.0\EX03 - Estrutura Sequencial.pdb
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX03 - Estrutura Sequencial\obj\Debug\net8.0\EX03 - Estrutura Sequencial.genruntimeconfig.cache
+C:\Users\isaia\source\Repos\Curso-C-Sharp\EX03 - Estrutura Sequencial\obj\Debug\net8.0\ref\EX03 - Estrutura Sequencial.dll

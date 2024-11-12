@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EX01 - Estrutura Sequencial (entrada, processamento, saída)/1.0.0": {
+        "runtime": {
+          "EX01 - Estrutura Sequencial (entrada, processamento, saída).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX01 - Estrutura Sequencial (entrada, processamento, saída)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
